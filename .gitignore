@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+*.egg
+*.pyc
+*.pyo
+
+# Data caches (keep eval_sentences.json but ignore large .npz/.pkl)
+*.npz
+*.pkl
+*.pt
+*.bin
+data/cache/
+data/*.npz
+results/**/*.npz
+results/**/*.pkl
+results/_archive_pre_fix/
+
+# Benchmark cells (large per-cell npz)
+results/benchmark/cells/*.npz
+benchmark/cells/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.code-workspace
+
+# Logs & temp - keep important csv/json, ignore raw logs
+results/**/*.log
+results/**/*.err
+*.tmp
+*.temp
+
+# Paper build artifects
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.synctex.gz
+paper/*.fls
+paper/*.fdb_latexmk
+paper/_t*.pdf
+paper/_t*.aux
+paper/_t*.log
+
+# OneDrive lock files
+*.tmp.driveupload
+
+# Modal
+.modal/
