@@ -1,4 +1,10 @@
-# Phase 1: Wavelet Analysis of Transformer Embeddings
+# Wavelet Analysis of Transformer Embeddings
+
+[![Public](https://img.shields.io/badge/visibility-public-brightgreen)](https://github.com/Sathvikar01/wavelet-embeddings) [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](requirements.txt) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Paper](https://img.shields.io/badge/paper-IEEE%20PDF-red)](paper/ieee_paper.pdf) [![Phases 1-6](https://img.shields.io/badge/phases-1--6-purple)](#layout)
+
+> Multi-scale DWT on static embeddings, contextual spectra, attention-head wavelets, predictive pruning validation, and a reproducible 45-cell benchmark (BERT/DistilBERT/GPT-2/RoBERTa/TinyLlama × WikiText-2/PTB/GLUE × 3 seeds).
+
+## Phase 1: Wavelet Analysis of Transformer Embeddings
 
 A pipeline that treats every token embedding as a 1-D signal and applies
 multilevel discrete wavelet transforms to reveal frequency / multiscale
