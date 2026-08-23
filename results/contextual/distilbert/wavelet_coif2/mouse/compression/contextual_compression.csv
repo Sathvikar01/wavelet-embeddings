@@ -1,0 +1,11 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+mouse,coif2,animal,2,0.10,0.9998,34.165,0.2053,1.000
+mouse,coif2,animal,2,0.20,0.9984,24.951,0.5920,1.000
+mouse,coif2,animal,2,0.30,0.9947,19.745,1.0780,1.000
+mouse,coif2,animal,2,0.40,0.9872,15.942,1.6708,1.000
+mouse,coif2,animal,2,0.50,0.9736,12.840,2.3887,1.000
+mouse,coif2,device,2,0.10,0.9999,35.397,0.1789,1.000
+mouse,coif2,device,2,0.20,0.9988,26.287,0.5082,1.000
+mouse,coif2,device,2,0.30,0.9954,20.403,1.0005,1.000
+mouse,coif2,device,2,0.40,0.9878,16.166,1.6296,1.000
+mouse,coif2,device,2,0.50,0.9746,13.006,2.3449,1.000

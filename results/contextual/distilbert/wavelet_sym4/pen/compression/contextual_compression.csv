@@ -1,0 +1,11 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+pen,sym4,enclosure,2,0.10,0.9998,34.982,0.1703,1.000
+pen,sym4,enclosure,2,0.20,0.9986,25.434,0.5083,1.000
+pen,sym4,enclosure,2,0.30,0.9946,19.672,0.9823,1.000
+pen,sym4,enclosure,2,0.40,0.9876,16.069,1.4858,1.000
+pen,sym4,enclosure,2,0.50,0.9736,12.830,2.1579,1.000
+pen,sym4,writing,2,0.10,0.9998,34.343,0.1934,1.000
+pen,sym4,writing,2,0.20,0.9985,25.376,0.5430,1.000
+pen,sym4,writing,2,0.30,0.9949,19.910,1.0190,1.000
+pen,sym4,writing,2,0.40,0.9880,16.256,1.5559,1.000
+pen,sym4,writing,2,0.50,0.9757,13.231,2.2053,1.000

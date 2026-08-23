@@ -1,0 +1,7 @@
+i,j,sense_i,sense_j,same_sense,cosine,wavelet,dE_low,dE_high
+0,1,device,animal,N,0.9953,0.9954,1423.7421,26474.1176
+0,2,device,device,Y,0.9967,0.9965,1145.3379,20637.9807
+0,3,device,animal,N,0.9984,0.9983,1353.9010,24945.0827
+1,2,animal,device,N,0.9985,0.9982,278.4042,5836.1369
+1,3,animal,animal,Y,0.9967,0.9968,69.8410,1529.0349
+2,3,device,animal,N,0.9976,0.9973,208.5631,4307.1020

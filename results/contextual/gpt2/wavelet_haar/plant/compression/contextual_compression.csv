@@ -1,0 +1,11 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+plant,haar,factory,3,0.10,1.0000,61.658,0.1979,1.000
+plant,haar,factory,3,0.20,1.0000,52.769,0.5500,1.000
+plant,haar,factory,3,0.30,1.0000,47.253,1.0369,1.000
+plant,haar,factory,3,0.40,1.0000,43.239,1.6475,1.000
+plant,haar,factory,3,0.50,1.0000,40.125,2.3615,1.000
+plant,haar,organism,2,0.10,1.0000,61.820,0.1930,1.000
+plant,haar,organism,2,0.20,1.0000,53.028,0.5311,1.000
+plant,haar,organism,2,0.30,1.0000,47.698,0.9821,1.000
+plant,haar,organism,2,0.40,1.0000,43.647,1.5657,1.000
+plant,haar,organism,2,0.50,1.0000,40.388,2.2759,1.000

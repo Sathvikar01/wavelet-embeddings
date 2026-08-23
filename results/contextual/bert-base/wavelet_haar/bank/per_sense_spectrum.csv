@@ -1,0 +1,3 @@
+sense,n_examples,E_total,E_low,E_high,entropy,gini,E_low/high
+money,3,295.3698,11.1199,284.2499,9.5801,0.4170,0.0391
+river,3,289.2155,11.3932,277.8224,9.5784,0.4179,0.0406

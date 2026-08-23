@@ -1,0 +1,3 @@
+sense,n_examples,E_total,E_low,E_high,entropy,gini,E_low/high
+animal,2,320.5009,11.2768,309.2241,9.5897,0.4138,0.0364
+device,2,353.6867,12.8755,340.8112,9.5758,0.4214,0.0376

@@ -1,0 +1,11 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+bank,haar,money,3,0.10,0.9998,34.035,0.2081,1.000
+bank,haar,money,3,0.20,0.9985,25.350,0.5653,1.000
+bank,haar,money,3,0.30,0.9947,19.768,1.0748,1.000
+bank,haar,money,3,0.40,0.9862,15.637,1.7285,1.000
+bank,haar,money,3,0.50,0.9727,12.689,2.4268,1.000
+bank,haar,river,3,0.10,0.9998,33.218,0.2279,1.000
+bank,haar,river,3,0.20,0.9980,24.032,0.6547,1.000
+bank,haar,river,3,0.30,0.9937,19.021,1.1643,1.000
+bank,haar,river,3,0.40,0.9848,15.216,1.8064,1.000
+bank,haar,river,3,0.50,0.9696,12.250,2.5512,1.000

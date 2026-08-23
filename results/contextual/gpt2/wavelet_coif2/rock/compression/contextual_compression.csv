@@ -1,0 +1,11 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+rock,coif2,genre,2,0.10,1.0000,59.602,0.2438,1.000
+rock,coif2,genre,2,0.20,1.0000,49.839,0.7502,1.000
+rock,coif2,genre,2,0.30,1.0000,44.608,1.3701,1.000
+rock,coif2,genre,2,0.40,1.0000,40.847,2.1122,1.000
+rock,coif2,genre,2,0.50,0.9999,37.674,3.0435,1.000
+rock,coif2,stone,2,0.10,1.0000,59.818,0.2293,1.000
+rock,coif2,stone,2,0.20,1.0000,50.356,0.6828,1.000
+rock,coif2,stone,2,0.30,1.0000,45.226,1.2265,1.000
+rock,coif2,stone,2,0.40,1.0000,41.318,1.9235,1.000
+rock,coif2,stone,2,0.50,0.9999,38.006,2.8187,1.000

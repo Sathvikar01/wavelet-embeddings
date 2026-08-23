@@ -1,0 +1,11 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+rock,haar,genre,2,0.10,0.9998,34.111,0.2852,1.000
+rock,haar,genre,2,0.20,0.9981,24.248,0.8879,1.000
+rock,haar,genre,2,0.30,0.9936,18.959,1.6332,1.000
+rock,haar,genre,2,0.40,0.9841,15.020,2.5731,1.000
+rock,haar,genre,2,0.50,0.9678,11.984,3.6461,1.000
+rock,haar,stone,2,0.10,0.9997,32.867,0.3265,1.000
+rock,haar,stone,2,0.20,0.9978,23.598,0.9495,1.000
+rock,haar,stone,2,0.30,0.9923,18.125,1.7818,1.000
+rock,haar,stone,2,0.40,0.9813,14.321,2.7606,1.000
+rock,haar,stone,2,0.50,0.9646,11.578,3.7853,1.000

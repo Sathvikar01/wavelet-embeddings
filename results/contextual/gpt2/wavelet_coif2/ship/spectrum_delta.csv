@@ -1,0 +1,2 @@
+anchor,wavelet,n,n_senses,inter_cos,cross_cos,delta_cos,inter_wav,cross_wav,delta_wav,inter_dLow,cross_dLow,inter_dHigh,cross_dHigh
+ship,coif2,4,2,0.9988,0.9983,0.0005,0.9986,0.9980,0.0006,925.4042,904.6609,5355.5463,6027.2708

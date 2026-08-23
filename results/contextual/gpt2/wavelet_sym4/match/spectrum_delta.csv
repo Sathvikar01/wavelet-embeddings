@@ -1,0 +1,2 @@
+anchor,wavelet,n,n_senses,inter_cos,cross_cos,delta_cos,inter_wav,cross_wav,delta_wav,inter_dLow,cross_dLow,inter_dHigh,cross_dHigh
+match,sym4,5,3,0.9973,0.9966,0.0006,0.9972,0.9965,0.0007,259.7141,649.1567,2580.8049,7099.8390

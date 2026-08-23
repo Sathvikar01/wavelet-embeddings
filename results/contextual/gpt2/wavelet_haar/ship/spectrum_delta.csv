@@ -1,0 +1,2 @@
+anchor,wavelet,n,n_senses,inter_cos,cross_cos,delta_cos,inter_wav,cross_wav,delta_wav,inter_dLow,cross_dLow,inter_dHigh,cross_dHigh
+ship,haar,4,2,0.9988,0.9983,0.0005,0.9986,0.9980,0.0006,155.0536,236.4199,6128.2985,6674.7685

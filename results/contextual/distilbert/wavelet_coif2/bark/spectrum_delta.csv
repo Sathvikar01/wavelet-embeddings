@@ -1,0 +1,2 @@
+anchor,wavelet,n,n_senses,inter_cos,cross_cos,delta_cos,inter_wav,cross_wav,delta_wav,inter_dLow,cross_dLow,inter_dHigh,cross_dHigh
+bark,coif2,4,2,0.8152,0.6232,0.1920,0.8037,0.5973,0.2064,1.7020,1.1176,11.4629,7.9010

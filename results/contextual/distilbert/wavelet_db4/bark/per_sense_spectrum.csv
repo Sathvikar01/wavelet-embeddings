@@ -1,0 +1,3 @@
+sense,n_examples,E_total,E_low,E_high,entropy,gini,E_low/high
+sound,2,135.3840,10.7844,114.0414,9.5380,0.4323,0.0942
+tree,2,136.3723,9.6420,114.6269,9.5305,0.4367,0.0842

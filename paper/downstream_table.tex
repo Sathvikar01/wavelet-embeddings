@@ -1,0 +1,28 @@
+\begin{table*}[t]
+\centering
+\caption{Downstream-task validation: damage after pruning the
+bottom-$p$\% of heads ranked by each predictor. Accuracy drops
+(points) and perplexity ratios ($\times$ clean) computed against
+each model's unpruned score; lower is better. No predictor
+dominates: distributional entropy transfers best to SST-2 but
+collapses on GPT-2, where the wavelet composite excels ---
+task-level validation is indispensable.}
+\label{tab:downstream}
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+ & \multicolumn{3}{c}{BERT SST-2 $\Delta$acc.} & \multicolumn{3}{c}{DistilBERT SST-2 $\Delta$acc.} & \multicolumn{3}{c}{GPT-2 PPL ratio} \\
+Predictor & 10\% & 20\% & 30\% & 10\% & 20\% & 30\% & 10\% & 20\% & 30\% \\
+\midrule
+Wavelet composite & +8.9 & +35.6 & +41.5 & +6.5 & +14.4 & +42.0 & 1.25 & 2.66 & 3.26 \\
+Attn.\ entropy (true) & +1.2 & +6.3 & +11.2 & +1.4 & +5.4 & +5.8 & 1.91 & 32.65 & 159.53 \\
+Frobenius mass $\|A\|_F$ & +6.4 & +5.5 & +16.2 & +0.6 & +1.3 & +4.9 & 2.39 & 5.15 & 6.43 \\
+Max-column mass & +1.8 & +14.1 & +18.8 & +0.9 & +1.8 & +10.8 & 2.23 & 5.05 & 8.40 \\
+Random & +4.8 & +39.0 & +41.5 & +4.0 & +15.0 & +42.0 & 12.75 & 61.99 & 39.49 \\
+Ridge: wavelet-only (LOMO) & +15.7 & +41.5 & +41.5 & +7.7 & +42.0 & +42.0 & 18.31 & 11.67 & 28.84 \\
+Ridge: attn.-only (LOMO) & +5.7 & +10.6 & +11.2 & +0.1 & +2.8 & +3.7 & 2.57 & 2.99 & 5.84 \\
+Ridge: combined (LOMO) & +14.3 & +41.2 & +41.5 & +6.5 & +22.8 & +42.0 & 7.81 & 16.25 & 23.70 \\
+\midrule
+Clean model & 92.4 & -- & -- & 91.1 & -- & -- & 39.4 & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table*}

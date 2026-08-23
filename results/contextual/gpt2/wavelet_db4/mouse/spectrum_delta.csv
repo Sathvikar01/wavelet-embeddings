@@ -1,0 +1,2 @@
+anchor,wavelet,n,n_senses,inter_cos,cross_cos,delta_cos,inter_wav,cross_wav,delta_wav,inter_dLow,cross_dLow,inter_dHigh,cross_dHigh
+mouse,db4,4,2,0.9967,0.9974,-0.0007,0.9967,0.9973,-0.0006,607.5895,816.1526,11083.5078,15390.6098

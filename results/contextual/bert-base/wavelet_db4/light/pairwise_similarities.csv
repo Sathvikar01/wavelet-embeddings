@@ -1,0 +1,7 @@
+i,j,sense_i,sense_j,same_sense,cosine,wavelet,dE_low,dE_high
+0,1,illumination,weight,N,0.5313,0.5233,5.0017,72.9781
+0,2,illumination,weight,N,0.5115,0.5183,8.8670,23.0397
+0,3,illumination,illumination,Y,0.6634,0.6597,8.8318,137.0220
+1,2,weight,weight,Y,0.5730,0.5594,13.8687,49.9384
+1,3,weight,illumination,N,0.3859,0.3646,3.8301,64.0438
+2,3,weight,illumination,N,0.4107,0.4129,17.6988,113.9822

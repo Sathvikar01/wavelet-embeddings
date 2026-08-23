@@ -1,0 +1,6 @@
+predictor,pearson_r,spearman_rho,kendall_tau,aggregate_kl,aggregate_cosine
+wavelet,-0.3312,-0.3711,-0.2559,0.00000,0.00283
+attention_entropy,-0.0413,+0.0212,+0.0180,0.00000,0.00283
+attention_weight,+0.3603,+0.4066,+0.3005,0.00000,0.00283
+magnitude,+0.3876,+0.4599,+0.3341,0.00000,0.00283
+random,+0.2730,+0.1266,+0.0861,0.00000,0.00283

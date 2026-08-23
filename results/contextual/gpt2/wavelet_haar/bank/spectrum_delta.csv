@@ -1,0 +1,2 @@
+anchor,wavelet,n,n_senses,inter_cos,cross_cos,delta_cos,inter_wav,cross_wav,delta_wav,inter_dLow,cross_dLow,inter_dHigh,cross_dHigh
+bank,haar,6,2,0.9969,0.9948,0.0021,0.9967,0.9946,0.0021,300.0180,415.7295,8183.8168,13009.2858

@@ -1,0 +1,16 @@
+token_a,token_b,cosine_sim,wavelet_sim
+king,queen,0.6570,0.6652
+king,man,0.3839,0.3807
+king,woman,0.3162,0.3252
+king,apple,0.3270,0.3220
+king,orange,0.3012,0.3014
+queen,man,0.2773,0.2588
+queen,woman,0.4284,0.4165
+queen,apple,0.3609,0.3518
+queen,orange,0.3531,0.3394
+man,woman,0.6504,0.6491
+man,apple,0.2967,0.2832
+man,orange,0.2740,0.2600
+woman,apple,0.2806,0.2787
+woman,orange,0.2860,0.2884
+apple,orange,0.4908,0.4915

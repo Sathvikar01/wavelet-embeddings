@@ -10,15 +10,17 @@ env/
 *.pyc
 *.pyo
 
-# Data caches (keep eval_sentences.json but ignore large .npz/.pkl)
+# Data caches (keep eval_sentences.json but ignore large .npz/.pkl/.npy)
 *.npz
 *.pkl
 *.pt
 *.bin
+*.npy
 data/cache/
 data/*.npz
 results/**/*.npz
 results/**/*.pkl
+results/**/*.npy
 results/_archive_pre_fix/
 
 # Benchmark cells (large per-cell npz)
@@ -37,12 +39,16 @@ Thumbs.db
 *.code-workspace
 
 # Logs & temp - keep important csv/json, ignore raw logs
+results/*.log
+results/*.err
 results/**/*.log
 results/**/*.err
 *.tmp
 *.temp
+results/**/*.png
+results/**/*.pdf
 
-# Paper build artifects
+# Paper build artifects (keep final pdf/figs, ignore aux)
 paper/*.aux
 paper/*.log
 paper/*.out

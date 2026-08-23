@@ -1,0 +1,7 @@
+i,j,sense_i,sense_j,same_sense,cosine,wavelet,dE_low,dE_high
+0,1,stone,genre,N,0.6254,0.6001,0.2891,16.8901
+0,2,stone,stone,Y,0.8832,0.8739,1.5383,5.4668
+0,3,stone,genre,N,0.6341,0.6078,1.7736,4.8064
+1,2,genre,stone,N,0.6293,0.6090,1.2493,11.4233
+1,3,genre,genre,Y,0.8170,0.8075,1.4846,12.0837
+2,3,stone,genre,N,0.6050,0.5726,0.2353,0.6605

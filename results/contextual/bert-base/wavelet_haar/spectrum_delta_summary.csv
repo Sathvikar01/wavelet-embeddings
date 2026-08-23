@@ -1,0 +1,11 @@
+anchor,wavelet,n_examples,n_senses,cosine_separation,wavelet_separation,inter_wav,cross_wav
+bank,haar,6,2,0.3192,0.3219,0.7490,0.4271
+plant,haar,5,2,0.1152,0.1105,0.5643,0.4538
+match,haar,5,3,0.3046,0.3129,0.6027,0.2898
+bark,haar,4,2,0.2387,0.2396,0.7056,0.4660
+light,haar,4,2,0.1584,0.1548,0.6096,0.4548
+rock,haar,4,2,0.1743,0.1805,0.7073,0.5267
+crane,haar,4,2,0.1465,0.1572,0.8374,0.6802
+pen,haar,4,2,0.3123,0.3250,0.6828,0.3577
+ship,haar,4,2,0.1684,0.1736,0.6879,0.5144
+mouse,haar,4,2,0.1879,0.1894,0.7197,0.5302

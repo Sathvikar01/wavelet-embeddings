@@ -1,0 +1,27 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Downstream validation of embedding-table
+compression: the word-embedding matrix is replaced by its
+lossy reconstruction (int8 payloads; PCA dense) and the task
+metric re-measured. Accuracy drops (points) and perplexity
+ratios ($\times$ clean); lower is better. On both encoder
+classifiers every tested int8 sparsification recipe --- wavelet,
+DCT, and raw top-k alike --- transfers with low degradation, and
+is near-lossless at the 33\% budget --- while PCA
+truncation does not. On tied-embedding GPT-2 the transform-domain
+tables fail catastrophically at both budgets while raw-coordinate
+TopK stays robust at 33\% ($1.2\times$): where a perturbation
+lands can matter more than how close the reconstruction is.}
+\label{tab:dscomp}
+\begin{tabular}{lcccccccc}
+\toprule
+ & \multicolumn{2}{c}{Wav.+int8} & \multicolumn{2}{c}{DCT+int8} & \multicolumn{2}{c}{TopK+int8} & \multicolumn{2}{c}{PCA} \\
+Model & 17\% & 33\% & 17\% & 33\% & 17\% & 33\% & 17\% & 33\% \\
+\midrule
+BERT SST-2 & +1.9 & +0.3 & +0.7 & +0.3 & +0.8 & +0.6 & +39.0 & +36.0 \\
+DistilBERT SST-2 & +4.9 & +0.1 & +1.1 & +0.7 & +1.5 & +0.5 & +25.2 & +17.1 \\
+GPT-2 PPL & $>$1000$\times$ & $>$1000$\times$ & $>$1000$\times$ & $>$1000$\times$ & $>$1000$\times$ & 1.2$\times$ & 46.7$\times$ & 21.6$\times$ \\
+\bottomrule
+\end{tabular}
+\end{table*}

@@ -1,0 +1,3 @@
+sense,n_examples,E_total,E_low,E_high,entropy,gini,E_low/high
+genre,2,144.3321,5.7475,138.5847,9.5367,0.4339,0.0414
+stone,2,137.8136,3.9152,133.8984,9.5410,0.4305,0.0293

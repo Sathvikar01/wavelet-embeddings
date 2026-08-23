@@ -1,0 +1,16 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+match,sym4,correspond,2,0.10,1.0000,59.098,0.2387,1.000
+match,sym4,correspond,2,0.20,1.0000,50.343,0.6525,1.000
+match,sym4,correspond,2,0.30,1.0000,45.019,1.2056,1.000
+match,sym4,correspond,2,0.40,1.0000,40.989,1.9178,1.000
+match,sym4,correspond,2,0.50,0.9999,37.701,2.8017,1.000
+match,sym4,firestick,1,0.10,1.0000,58.716,0.2523,1.000
+match,sym4,firestick,1,0.20,1.0000,50.340,0.6617,1.000
+match,sym4,firestick,1,0.30,1.0000,45.496,1.1558,1.000
+match,sym4,firestick,1,0.40,1.0000,41.212,1.8927,1.000
+match,sym4,firestick,1,0.50,0.9999,37.970,2.7490,1.000
+match,sym4,game,2,0.10,1.0000,60.810,0.2154,1.000
+match,sym4,game,2,0.20,1.0000,51.463,0.6336,1.000
+match,sym4,game,2,0.30,1.0000,45.922,1.2003,1.000
+match,sym4,game,2,0.40,1.0000,41.995,1.8851,1.000
+match,sym4,game,2,0.50,0.9999,38.725,2.7448,1.000

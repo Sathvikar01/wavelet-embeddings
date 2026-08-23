@@ -1,0 +1,3 @@
+sense,n_examples,E_total,E_low,E_high,entropy,gini,E_low/high
+factory,3,62429.6737,5239.7693,53083.5707,6.9954,0.8497,0.0986
+organism,2,62652.1554,5173.6275,53281.9290,6.9382,0.8535,0.0971

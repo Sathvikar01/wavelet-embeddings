@@ -1,0 +1,3 @@
+sense,n_examples,E_total,E_low,E_high,entropy,gini,E_low/high
+illumination,2,248.4428,14.1127,218.0451,9.5354,0.4377,0.0648
+weight,2,274.0622,20.4612,238.5471,9.5577,0.4279,0.0836

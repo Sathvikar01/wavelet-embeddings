@@ -1,0 +1,7 @@
+i,j,sense_i,sense_j,same_sense,cosine,wavelet,dE_low,dE_high
+0,1,writing,enclosure,N,0.9958,0.9947,184.6782,1751.7097
+0,2,writing,writing,Y,0.9925,0.9918,208.7866,1430.6463
+0,3,writing,enclosure,N,0.9926,0.9912,2142.4865,14782.8695
+1,2,enclosure,writing,N,0.9952,0.9953,24.1084,321.0634
+1,3,enclosure,enclosure,Y,0.9969,0.9969,1957.8083,13031.1598
+2,3,writing,enclosure,N,0.9988,0.9985,1933.6999,13352.2232

@@ -1,0 +1,3 @@
+sense,n_examples,E_total,E_low,E_high,entropy,gini,E_low/high
+boat,2,127.2077,7.9352,109.2874,9.5182,0.4409,0.0729
+verb,2,120.2656,8.0824,102.2295,9.5226,0.4389,0.0791

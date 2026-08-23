@@ -1,0 +1,7 @@
+i,j,sense_i,sense_j,same_sense,cosine,wavelet,dE_low,dE_high
+0,1,sound,tree,N,0.4706,0.4710,3.3149,16.0871
+0,2,sound,sound,Y,0.6678,0.6653,0.1362,16.7711
+0,3,sound,tree,N,0.3896,0.3865,7.3106,8.9108
+1,2,tree,sound,N,0.5783,0.5712,3.4511,32.8581
+1,3,tree,tree,Y,0.7473,0.7459,3.9957,24.9979
+2,3,sound,tree,N,0.4371,0.4352,7.4468,7.8603

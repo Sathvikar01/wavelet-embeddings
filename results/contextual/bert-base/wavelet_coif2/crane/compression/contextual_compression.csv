@@ -1,0 +1,11 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+crane,coif2,bird,2,0.10,0.9997,32.723,0.3593,1.000
+crane,coif2,bird,2,0.20,0.9976,23.288,1.0358,1.000
+crane,coif2,bird,2,0.30,0.9925,18.243,1.8510,1.000
+crane,coif2,bird,2,0.40,0.9825,14.610,2.8122,1.000
+crane,coif2,bird,2,0.50,0.9653,11.664,3.9483,1.000
+crane,coif2,machine,2,0.10,0.9998,34.692,0.2517,1.000
+crane,coif2,machine,2,0.20,0.9986,25.463,0.7282,1.000
+crane,coif2,machine,2,0.30,0.9947,19.771,1.4025,1.000
+crane,coif2,machine,2,0.40,0.9874,16.032,2.1577,1.000
+crane,coif2,machine,2,0.50,0.9732,12.762,3.1423,1.000

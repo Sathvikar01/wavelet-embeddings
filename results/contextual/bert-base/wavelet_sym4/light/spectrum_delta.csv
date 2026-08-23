@@ -1,0 +1,2 @@
+anchor,wavelet,n,n_senses,inter_cos,cross_cos,delta_cos,inter_wav,cross_wav,delta_wav,inter_dLow,cross_dLow,inter_dHigh,cross_dHigh
+light,sym4,4,2,0.6182,0.4599,0.1584,0.6096,0.4548,0.1548,8.8412,6.5122,93.3521,68.4367

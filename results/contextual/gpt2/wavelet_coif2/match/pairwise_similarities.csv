@@ -1,0 +1,11 @@
+i,j,sense_i,sense_j,same_sense,cosine,wavelet,dE_low,dE_high
+0,1,game,correspond,N,0.9969,0.9967,1682.0716,12118.0045
+0,2,game,firestick,N,0.9958,0.9957,1281.0969,8907.4972
+0,3,game,correspond,N,0.9980,0.9977,1265.9440,8332.0689
+0,4,game,game,Y,0.9988,0.9986,212.5616,1523.9175
+1,2,correspond,firestick,N,0.9962,0.9962,400.9746,3210.5073
+1,3,correspond,correspond,Y,0.9957,0.9957,416.1276,3785.9357
+1,4,correspond,game,N,0.9970,0.9968,1469.5100,10594.0870
+2,3,firestick,correspond,N,0.9950,0.9949,15.1530,575.4284
+2,4,firestick,game,N,0.9961,0.9959,1068.5354,7383.5797
+3,4,correspond,game,N,0.9979,0.9976,1053.3824,6808.1513

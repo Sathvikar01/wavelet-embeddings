@@ -1,0 +1,11 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+plant,coif2,factory,3,0.10,1.0000,60.760,0.2195,1.000
+plant,coif2,factory,3,0.20,1.0000,51.048,0.6728,1.000
+plant,coif2,factory,3,0.30,1.0000,45.731,1.2398,1.000
+plant,coif2,factory,3,0.40,1.0000,41.648,1.9858,1.000
+plant,coif2,factory,3,0.50,0.9999,38.782,2.7554,1.000
+plant,coif2,organism,2,0.10,1.0000,60.454,0.2261,1.000
+plant,coif2,organism,2,0.20,1.0000,51.780,0.6134,1.000
+plant,coif2,organism,2,0.30,1.0000,46.375,1.1424,1.000
+plant,coif2,organism,2,0.40,1.0000,42.476,1.7896,1.000
+plant,coif2,organism,2,0.50,0.9999,39.438,2.5408,1.000

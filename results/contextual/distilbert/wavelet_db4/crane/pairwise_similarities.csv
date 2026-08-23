@@ -1,0 +1,7 @@
+i,j,sense_i,sense_j,same_sense,cosine,wavelet,dE_low,dE_high
+0,1,machine,bird,N,0.8275,0.8125,0.4068,18.3928
+0,2,machine,machine,Y,0.8874,0.8791,0.7911,17.2837
+0,3,machine,bird,N,0.7501,0.7318,0.1496,33.3544
+1,2,bird,machine,N,0.8282,0.8103,1.1980,1.1091
+1,3,bird,bird,Y,0.8737,0.8635,0.5564,14.9616
+2,3,machine,bird,N,0.7592,0.7386,0.6415,16.0707

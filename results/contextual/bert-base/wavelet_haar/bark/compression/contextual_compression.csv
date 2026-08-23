@@ -1,0 +1,11 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+bark,haar,sound,2,0.10,0.9998,33.901,0.3011,1.000
+bark,haar,sound,2,0.20,0.9982,24.459,0.8937,1.000
+bark,haar,sound,2,0.30,0.9938,19.089,1.6574,1.000
+bark,haar,sound,2,0.40,0.9845,15.117,2.6163,1.000
+bark,haar,sound,2,0.50,0.9662,11.771,3.8455,1.000
+bark,haar,tree,2,0.10,0.9998,33.288,0.3181,1.000
+bark,haar,tree,2,0.20,0.9981,24.207,0.8932,1.000
+bark,haar,tree,2,0.30,0.9931,18.657,1.6881,1.000
+bark,haar,tree,2,0.40,0.9830,14.756,2.6462,1.000
+bark,haar,tree,2,0.50,0.9632,11.425,3.8781,1.000

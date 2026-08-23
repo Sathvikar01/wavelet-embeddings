@@ -1,0 +1,11 @@
+anchor,wavelet,sense,n,ratio,cos,snr_db,drift,inv_swap_rate
+light,sym4,illumination,2,0.10,0.9997,33.061,0.3087,1.000
+light,sym4,illumination,2,0.20,0.9981,24.325,0.8322,1.000
+light,sym4,illumination,2,0.30,0.9937,18.995,1.5352,1.000
+light,sym4,illumination,2,0.40,0.9855,15.422,2.3254,1.000
+light,sym4,illumination,2,0.50,0.9712,12.459,3.2547,1.000
+light,sym4,weight,2,0.10,0.9998,34.525,0.2736,1.000
+light,sym4,weight,2,0.20,0.9985,25.347,0.7958,1.000
+light,sym4,weight,2,0.30,0.9949,19.941,1.4748,1.000
+light,sym4,weight,2,0.40,0.9871,15.924,2.3350,1.000
+light,sym4,weight,2,0.50,0.9716,12.520,3.4506,1.000
