@@ -1,0 +1,17 @@
+{
+  "description": "Curated evaluation set for Phase-3 attention wavelet analysis and Phase-4 predictive pruning validation. Covers polysemy, syntactic variety, length variation, named entities and numerals.",
+  "sentences": [
+    "The bank approved the loan for the new house today.",
+    "The fisher sat on the bank of the river and waited.",
+    "She opened her book and started to read quietly.",
+    "The young boy kicked the red ball across the field.",
+    "The judge read the brief and dismissed the case entirely.",
+    "The plant near the window needs more sunlight than before.",
+    "Workers built a huge plant outside the small town.",
+    "Although the storm was fierce, the ship reached the harbour safely.",
+    "They will ship the packages to Berlin by Friday morning.",
+    "The scientist who discovered the vaccine won a major prize.",
+    "In 1969, three astronauts flew around the moon seven times.",
+    "Why did the quiet student answer every difficult question correctly?"
+  ]
+}
